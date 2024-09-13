@@ -1,6 +1,4 @@
-Demo here: ([https://live-docs-azure.vercel.app/sign-in])
-
-## Getting Started
+## Demo here: ([https://live-docs-azure.vercel.app/sign-in])
 
 First, run the development server:
 
